@@ -1,0 +1,11 @@
+{ "include": ["src/**/*.ts"] }
+
+// # Install compodoc with npm
+// $ npm install -g @compodoc/compodoc
+
+// # Create a file named tsconfig.doc.json, containing { "include": ["src/**/*.ts"] }
+
+// # Run compodoc in your project (generated with Angular CLI for example) and serve it
+// $ compodoc -p tsconfig.doc.json -s
+
+//example ssr : https://github.com/bratosab/ng-universal-travel
